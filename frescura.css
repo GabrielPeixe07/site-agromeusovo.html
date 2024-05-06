@@ -39,15 +39,24 @@ img {
 }
 p
 { 
- color:red;
- font-Size 16pt;
+ color:dark gray;
+ font-Size: 30 pt;
  font-family: Arial;
  text-align: center;
 }
 p2
 {
-  color:blue;
- font-Size 20pt;
- font-family: verdana;
- text-align: center;
+  color:dark gray;
+ font-Size: 25 pt;
+ font-family: arial;
+ text-align: left;
+}
+p3
+{
+ color:black;
+ font-size: 20 pt;
+ font-family:arial;
+ text-aling:left;
+}
+ 
  
